@@ -1,4 +1,4 @@
-# -RPS-Multiplayer
+RPS-Multiplayer
 Unit 7 Assignment - Rock Paper Scissors (Challenge)
 
 RPS? Again?! What?!!   
