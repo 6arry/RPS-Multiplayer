@@ -20,6 +20,7 @@ Setup
   Don't forget to include 
   jQuery (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js) and 
   Firebase (https://www.gstatic.com/firebasejs/live/3.0/firebase.js).
+  
   Inside RPS-Multiplayer, create your assets directory. 
   Create the folders and files you typically place in assets -- just like you had for the prior unit's homework assignments.    
 Commits  
