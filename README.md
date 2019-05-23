@@ -68,8 +68,8 @@ Additional Practice and Support
 
   If you find your skills lacking in any of the subjects we taught you, look at your instructor's in class repository.
   
-    Find the exercises that you did in class and redo them from scratch. It might seem redundant at first, but this will help edify the material. 
-    You can also watch videos of this all of our past lectures--we've saved these to the repo.     
+   Find the exercises that you did in class and redo them from scratch. It might seem redundant at first, but this will help edify the material. 
+   You can also watch videos of this all of our past lectures--we've saved these to the repo.     
     
 *If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.  
 
