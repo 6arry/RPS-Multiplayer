@@ -17,7 +17,9 @@ By Unit 9. Try your absolute best to finish this homework.
 Setup   
   Create a GitHub repo called RPS-Multiplayer and clone it to your computer. 
   Create a file inside of your RPS-Multiplayer folder called index.html. This is where your page's HTML will go. 
-  Don't forget to include jQuery and Firebase. 
+  Don't forget to include 
+  jQuery (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js) and 
+  Firebase (https://www.gstatic.com/firebasejs/live/3.0/firebase.js).
   Inside RPS-Multiplayer, create your assets directory. 
   Create the folders and files you typically place in assets -- just like you had for the prior unit's homework assignments.    
 Commits  
